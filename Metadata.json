@@ -1,0 +1,20 @@
+{
+    "Author": "Karim M. Moussa",
+    "ContentSize": 1158,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/applytagtovm/master/Apply-Tag-To-VM.ps1",
+    "DownloadCount": 1127,
+    "Id": "Apply-Tag-To-VM-6c219fa2",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 164,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-19T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This workflow is designed to apply Tags to all Azure VMs under your subscription, it basically loops all resource groups in the subscription after you successfully login with your credentials ,then loops across all VMs and applies the tags you assigned earlier $TagName,$TagValu",
+    "Title": "Apply-Tag-To-VM",
+    "UpdatedDate": "2018-6-19T00:00:00",
+    "Url": "https://github.com/azureautomation/applytagtovm",
+    "UserTags": "Tags, VM Lifecycle Management, Compliance"
+}
